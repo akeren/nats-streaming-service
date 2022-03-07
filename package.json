@@ -9,7 +9,9 @@
   },
   "keywords": [
     "Node",
-    "NATS"
+    "NATS",
+    "Typescript",
+    "Streaming"
   ],
   "author": "Kater Akeren",
   "license": "ISC",
